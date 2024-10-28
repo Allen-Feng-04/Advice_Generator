@@ -38,9 +38,6 @@ The **Advice Generator** is a simple web application that allows users to receiv
     npm start
     ```
 
-5. **Access the app**:
-   - Open your browser and go to `http://localhost:3000` to use the Advice Generator.
-
 ## API Information
 
 This application uses the **Advice Slip API** to fetch advice based on the keyword entered by the user. Here’s a brief overview of the API integration:
@@ -50,3 +47,12 @@ This application uses the **Advice Slip API** to fetch advice based on the keywo
 - **Integration**: The `fetchAdvice` function makes an asynchronous `GET` request to the API, using the entered keyword in the API endpoint. The response is parsed, and the first advice slip is displayed. If no advice is available for a keyword, an error message is displayed instead.
 
 The Advice Slip API does not require authentication, making it straightforward to integrate and use for this type of lightweight project.
+
+## Credits to OPEN_AI
+
+I usually write the raw code myself and ask OPENAI to then polish it.
+For this project, the AI made the following additions to my code:
+
+-All the error handling such as try/catch(error)
+-Formatting
+-
