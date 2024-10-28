@@ -6,7 +6,7 @@ The **Advice Generator** is a simple web application that allows users to receiv
 
 ## Features
 
-- Users can enter any topic, such as "love," "career," or "health," and the app will fetch relevant advice.
+- Users can enter any topic, such as "love," "food," or "happiness," and the app will fetch relevant advice.
 - Provides a default response if the entered keyword does not return any specific advice.
 - Simple, intuitive interface that’s easy to use for quick inspiration or guidance.
 
