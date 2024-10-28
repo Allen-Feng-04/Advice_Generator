@@ -53,6 +53,6 @@ The Advice Slip API does not require authentication, making it straightforward t
 I usually write the raw code myself and ask OPENAI to then polish it.
 For this project, the AI made the following additions to my code:
 
--All the error handling such as try/catch(error)
--Formatting
--
+- All the error handling such as try/catch(error)
+- Formatting
+- Y
