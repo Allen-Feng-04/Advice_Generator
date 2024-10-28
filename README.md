@@ -20,7 +20,7 @@ The **Advice Generator** is a simple web application that allows users to receiv
 
 1. **Clone the repository**:
     ```bash
-    git clone <REPOSITORY_URL>
+    git clone https://github.com/Allen-Feng-04/Advice_Generator.git
     ```
 
 2. **Navigate into the project directory**:
